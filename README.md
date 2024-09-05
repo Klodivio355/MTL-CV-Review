@@ -3,7 +3,6 @@ A paper gathering repository based on our [review paper](https://arxiv.org/abs/2
 
 ## Table of Contents
 - [Partially-Supervised Multi-Task Learning](#PS-MTL)
-- [Code Repositories](#code-repos)
 
 ## Partially-Supervised Multi-Task Learning
 ### 1. Self-supervised Representation Learning
@@ -18,3 +17,13 @@ A paper gathering repository based on our [review paper](https://arxiv.org/abs/2
 * MultiMAE: Multi-modal Multi-task Masked Autoencoders (ECCV, 2022) [[paper](https://arxiv.org/abs/2204.01678) [[code](https://github.com/EPFL-VILAB/MultiMAE)]
 
 ### 2. Semi-Supervised Learning
+
+### 3. Few-Shot Learning
+* The Natural Language Decathlon: Multitask Learning as Question Answering (ICLR, 2019) [[paper](https://arxiv.org/abs/1806.08730)] [[code](https://github.com/salesforce/decaNLP)]
+* Improving Few-Shot Learning with Auxiliary Self-Supervised Pretext Tasks (ArXiv, 2021) [[paper](https://arxiv.org/abs/2101.09825)] [[code](https://github.com/nathanielsimard/improving-fs-ssl)]
+* MTFormer: Multi-Task Learning via Transformer and Cross-Task Reasoning (ECCV, 2022) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870299.pdf)] [[code](https://github.com/xiaogang00/MTFormer)]
+* Universal Few-shot Learning of Dense Prediction Tasks with Visual Token Matching (ICLR, 2023) [[paper](https://arxiv.org/abs/2303.14969)] [[code](https://github.com/GitGyun/visual_token_matching)]
+
+
+
+
