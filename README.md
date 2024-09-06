@@ -17,6 +17,14 @@ A paper gathering repository based on our [review paper](https://arxiv.org/abs/2
 * MultiMAE: Multi-modal Multi-task Masked Autoencoders (ECCV, 2022) [[paper](https://arxiv.org/abs/2204.01678) [[code](https://github.com/EPFL-VILAB/MultiMAE)]
 
 ### 2. Semi-Supervised Learning
+* Semi-Supervised Multitask Learning (NIPS, 2007) [[paper](https://proceedings.neurips.cc/paper_files/paper/2007/file/a34bacf839b923770b2c360eefa26748-Paper.pdf)]
+* Semi-supervised Multi-task Learning with Task Regularizations (ICDM, 2009) [[paper](https://ieeexplore.ieee.org/document/5360282)]
+* Three Ways to Improve Semantic Segmentation with Self-Supervised Depth Estimation (CVPR, 2021) [[paper](https://arxiv.org/abs/2012.10782)] [[code](https://github.com/lhoyer/improving_segmentation_with_selfsupervised_depth)]
+* Partly Supervised Multitask Learning (ICMLA, 2020) [[paper](https://arxiv.org/abs/2005.02523)]
+* Semi-supervised Multi-task Learning for Semantics and Depth (WACV, 2022) [[paper](https://arxiv.org/abs/2110.07197)]
+* A Novel Multi-Task Self-Supervised Representation Learning Paradigm (AIID, 2021) [[paper](https://ieeexplore.ieee.org/document/9456562)]
+* Robust Learning Through Cross-Task Consistency (CVPR, 2020) [[paper](https://arxiv.org/abs/2006.04096)] [[code](https://github.com/EPFL-VILAB/XTConsistency)]
+* Learning Multiple Dense Prediction Tasks from Partially Annotated Data (CVPR, 2022) [[paper](https://arxiv.org/abs/2111.14893)] [[code](https://github.com/VICO-UoE/MTPSL)]
 
 ### 3. Few-Shot Learning
 * The Natural Language Decathlon: Multitask Learning as Question Answering (ICLR, 2019) [[paper](https://arxiv.org/abs/1806.08730)] [[code](https://github.com/salesforce/decaNLP)]
