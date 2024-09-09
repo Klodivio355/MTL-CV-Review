@@ -4,7 +4,16 @@ A paper gathering repository based on our [review paper](https://arxiv.org/abs/2
 ## Table of Contents
 - [Partially-Supervised Multi-Task Learning](#PS-MTL)
 
-## Partially-Supervised Multi-Task Learning
+## IV. Task Grouping
+* Taskonomy: Disentangling Task Transfer Learning (CVPR, 2018) [[paper](https://arxiv.org/abs/1804.08328)] [[code](https://github.com/StanfordVL/taskonomy?tab=readme-ov-file)]
+* Representation Similarity Analysis for Efficient Task taxonomy & Transfer Learning (CVPR, 2019) [[paper](https://arxiv.org/abs/1904.11740)] [[code](https://github.com/kshitijd20/RSA-CVPR19-release)]
+* Which Tasks Should Be Learned Together in Multi-task Learning? (ICML, 2020) [[paper](https://arxiv.org/abs/1905.07553)] [[code](https://github.com/tstandley/taskgrouping)]
+* Efficiently Identifying Task Groupings for Multi-Task Learning (NIPS, 2021) [[paper](https://arxiv.org/abs/2109.04617)] [[code](https://github.com/google-research/google-research/tree/master/tag)]
+
+
+
+
+## V. Partially-Supervised Multi-Task Learning
 ### 1. Self-supervised Representation Learning
 * Multi-task Self-Supervised Visual Learning (ICCV, 2017) [[paper](https://arxiv.org/abs/1708.07860)]
 * Multi-Task Self-Training for Learning General Representations (ICCV, 2021) [[paper](https://arxiv.org/abs/2108.11353)]
