@@ -4,13 +4,24 @@ A paper gathering repository based on our [review paper](https://arxiv.org/abs/2
 ## Table of Contents
 - [Partially-Supervised Multi-Task Learning](#PS-MTL)
 
+## III. Optimization
+### 1. Loss-based Techniques
+* Learning Anytime Predictions in Neural Networks via Adaptive Loss Balancing (AAAI, 2019) [[paper](https://arxiv.org/abs/1708.06832)]
+* Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics (CVPR, 2018) [[paper](https://arxiv.org/abs/1705.07115)] [[code](https://github.com/ranandalon/mtl)]
+* Auxiliary Tasks in Multi-task Learning (ArXiV, 2018) [[paper](https://arxiv.org/abs/1805.06334)]
+* Towards impartial Multi-task Learning (ICLR, 2021) [[paper](https://openreview.net/forum?id=IMPnRXEWpvr)] [[code](https://github.com/JohnLaMaster/Impartial-Multi-Task-Learning)]
+* MultiNet++: Multi-Stream Feature Aggregation and Geometric Loss Strategy for Multi-Task Learning (CVPR, 2019) [[paper](https://arxiv.org/abs/1904.08492)]
+* MTAN : End-to-End Multi-Task Learning with Attention (CVPR, 2019) [[paper](https://arxiv.org/abs/1803.10704)] [[code](https://github.com/lorenmt/mtan)]
+* Reasonable Effectiveness of Random Weighting: A Litmus Test for Multi-Task Learning (TMLR, 2022) [[paper](https://openreview.net/forum?id=jjtFD8A1Wx)]
+
+### 2. Gradient-based Techniques
+
+
 ## IV. Task Grouping
 * Taskonomy: Disentangling Task Transfer Learning (CVPR, 2018) [[paper](https://arxiv.org/abs/1804.08328)] [[code](https://github.com/StanfordVL/taskonomy?tab=readme-ov-file)]
 * Representation Similarity Analysis for Efficient Task taxonomy & Transfer Learning (CVPR, 2019) [[paper](https://arxiv.org/abs/1904.11740)] [[code](https://github.com/kshitijd20/RSA-CVPR19-release)]
 * Which Tasks Should Be Learned Together in Multi-task Learning? (ICML, 2020) [[paper](https://arxiv.org/abs/1905.07553)] [[code](https://github.com/tstandley/taskgrouping)]
 * Efficiently Identifying Task Groupings for Multi-Task Learning (NIPS, 2021) [[paper](https://arxiv.org/abs/2109.04617)] [[code](https://github.com/google-research/google-research/tree/master/tag)]
-
-
 
 
 ## V. Partially-Supervised Multi-Task Learning
